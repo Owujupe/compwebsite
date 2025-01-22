@@ -5,7 +5,7 @@
                     <div class="col-lg-4">
                         <div class="widget">
                        
-                            <!-- <img src="https://owujupe.com/image-removebg-preview.png" alt="image"> -->
+                            <!-- <img src="https://owujupe.com/old/image-removebg-preview.png" alt="image"> -->
                             <!-- <p>There are many variations of  Lorem Ipsum available, but the majority have suffered alteration in some, </p> -->
 
                             <ul>

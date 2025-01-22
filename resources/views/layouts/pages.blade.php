@@ -61,7 +61,7 @@
                     <div class="mobile-responsive-menu">
                         <div class="logo">
                             <a href="/">
-                                <img src="https://owujupe.com/owublack.png" class="main-logo" alt="logo">
+                                <img src="assets/images/owublack.png" class="main-logo" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                 <div class="container-fluid">
                     <nav class="navbar navbar-expand-md navbar-light">
                         <a class="navbar-brand" href="/">
-                            <img src="https://owujupe.com/owublack.png" class="main-logo" alt="logo">
+                            <img src="assets/images/owublack.png" class="main-logo" alt="logo">
                         </a>
 
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
