@@ -300,10 +300,10 @@
             </div>            
                 <div class="vbnmr-slider owl-carousel owl-theme owl-loaded owl-drag">
                     <div class="sponsor-logo">
-                        <img src="https://owujupe.com/old/images/startgbc.png" alt="image">
+                        <img src="assets/images/startgbc.png" alt="image">
                     </div>
                     <div class="sponsor-logo">
-                        <img src="https://owujupe.com/old/images/bea.png" alt="image">
+                        <img src="assets/images/bea.png" alt="image">
                     </div>
                     <div class="sponsor-logo">
                         <img src="https://www.georgebrown.ca/sites/default/files/inline-images/GBC-logo_0.png" alt="image">

@@ -20,7 +20,7 @@
         <link href="assets/css/responsive.css" rel="stylesheet">
 
         <title>Owujupe Inc - Bringing Goodness</title>
-        <link rel="icon" type="image/png" href="assets/images/logo.png">
+        <link rel="icon" type="image/png" href="assets/images/logo5.png">
     </head>
 
     <body>
