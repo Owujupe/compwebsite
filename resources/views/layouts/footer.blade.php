@@ -5,8 +5,11 @@
                     <div class="col-lg-4">
                         <div class="widget">
                        
-                            <!-- <img src="https://owujupe.com/old/image-removebg-preview.png" alt="image"> -->
+                            <!-- <img src="https://owujupe.com/image-removebg-preview.png" alt="image"> -->
                             <!-- <p>There are many variations of  Lorem Ipsum available, but the majority have suffered alteration in some, </p> -->
+                            <div class="address">
+                            <h4>Socials</h4>
+                            </div>
 
                             <ul>
                                 
@@ -49,12 +52,12 @@
                                         </li>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="#team">Team</a>
+                                            <a href="/community">Community</a>
                                         </li>
-                                        <!-- <li>
+                                        <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="#">Contact Us</a>
-                                        </li> -->
+                                            <a href="/contact">Contact Us</a>
+                                        </li>
                                        
                                     </ul>
                                 </div>
@@ -106,7 +109,7 @@
         <div class="copy-area bg-color-3d0660">
             <div class="container">
                 <div class="copy">
-                    <p>Copyright <span>Owujupe Inc.</span> </p>
+                    <p>Copyright 2025 <span>Owujupe Inc.</span> </p>
                 </div>
             </div>
         </div>

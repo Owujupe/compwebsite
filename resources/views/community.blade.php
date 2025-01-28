@@ -242,7 +242,7 @@
         <div class="popup-area">
             <div class="container">
                 <div class="popup-img">
-                    <img class="popup-img-1" src="assets/images/popup-img.png" alt="popup-img">
+                    <img class="popup-img-1" src="assets/images/community/sept.jpg" alt="popup-img">
                     
                     <a class="popup-youtube popup-btn" href="https://www.youtube.com/watch?v=EFYWT3mqUew">
                         <i class="flaticon-play"></i>

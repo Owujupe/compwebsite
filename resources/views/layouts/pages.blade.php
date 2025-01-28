@@ -93,6 +93,10 @@
                                 </li>
 
                                 <li class="nav-item">
+                                    <a href="https://owujupe.com/#blog" class="nav-link" target="news">News</a>
+                                </li>
+
+                                <li class="nav-item">
                                     <a href="/community" class="nav-link">Community</a>
                                 </li>
                             </ul>

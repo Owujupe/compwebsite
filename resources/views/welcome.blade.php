@@ -14,7 +14,7 @@
                     </div>
                     <div class="col-lg-7">
                         <div class="hero-content">
-                            <span>Bringing Goodness</span>
+                            <span>Owujupe means Goodness</span>
                             <h1>Welcome to Owujupé</h1>
                             <p>Owujupé is a revolutionary ecosystem providing innovative products and solutions.</p>
                             <a class="hero-btn" href="#about">About</a>
@@ -110,6 +110,37 @@
                                     we are a movement driven by a vision to create lasting impact in every facet of life we touch.</p>
                             </div>
 
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="experience-card">
+                                        <div class="heading align-items-center">
+                                            <div class="business-img">
+                                                <img src="assets/images/svg/business-1.svg" alt="image">
+                                            </div>
+                                            <h4>Mission</h4>
+                                        </div>
+
+                                        <p>To deliver innovative solutions that bridge gaps in technology, finance, and community empowerment. 
+                                        </p>
+                                    </div>
+                                </div>
+                                
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="experience-card">
+                                        <div class="heading align-items-center">
+                                            <div class="business-img">
+                                                <img src="assets/images/svg/business-2.svg" alt="image">
+                                            </div>
+                                            <h4>Vision</h4>
+                                        </div>
+
+                                        <p>To be a global leader in tech innovation, financial empowerment, and community transformation, 
+                                            driving sustainable growth and empowering individuals to achieve their goals.</p>
+                                    </div>
+                                </div>
+                                
+                            </div>
+
                           
 
                             <a class="default-btn" href="#blog">Track Records</a>
@@ -198,8 +229,10 @@
                                     rotating savings and credit principle empowering people to save together, providing a pathway to interest-free credit, collectively pool 
                                     resources to fund education, 
                                     start businesses, invest in their future, settle debt and build credit.</p>
+                                <p>We are a Money Service Business(MSB) and are duly registered with the Financial 
+                                Tracking & Analytics Centre of Canada(FINTRAC).</p>
                             </div>
-                            <div class="row">
+                            <!-- <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="experience-card">
                                         <div class="heading align-items-center">
@@ -222,11 +255,12 @@
                                             <h4>Vision</h4>
                                         </div>
 
-                                        <p>To inspire and cultivate a culture of purposeful saving by providing a reliable, community-driven platform that helps individuals achieve financial stability and success.</p>
+                                        <p>To be a global leader in tech innovation, financial empowerment, and community transformation, 
+                                            driving sustainable growth and empowering individuals to achieve their goals.</p>
                                     </div>
                                 </div>
                                 
-                            </div>
+                            </div> -->
                             
                         </div>
                     </div>
@@ -266,10 +300,10 @@
             </div>            
                 <div class="vbnmr-slider owl-carousel owl-theme owl-loaded owl-drag">
                     <div class="sponsor-logo">
-                        <img src="assets/images/startgbc.png" alt="image">
+                        <img src="https://owujupe.com/old/images/startgbc.png" alt="image">
                     </div>
                     <div class="sponsor-logo">
-                        <img src="assets/images/bea.png" alt="image">
+                        <img src="https://owujupe.com/old/images/bea.png" alt="image">
                     </div>
                     <div class="sponsor-logo">
                         <img src="https://www.georgebrown.ca/sites/default/files/inline-images/GBC-logo_0.png" alt="image">
@@ -331,7 +365,7 @@
                         </div>
                         <div class="name">
                             <h4>Priya Dikshit</h4>
-                            <p>Marketing</p>
+                            <p>Marketting</p>
                             <caption>Toronto, ON</caption>
                         </div>
                     </div>
@@ -359,7 +393,7 @@
 
                
                     
-                    <div class="team-card">
+                    <!-- <div class="team-card">
                         <div class="team-social">
                             <img src="https://media.licdn.com/dms/image/v2/D4E03AQFMuZPhXw7iAQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729000641889?e=1743033600&v=beta&t=GW_E9DwQfl_OH1LtbuO-s8VqIMuofkyZSvF8TgD8sSQ" alt="image">
     
@@ -378,7 +412,7 @@
                             <p>Brand Strategist</p>
                             <caption>Akure, Nigeria</caption>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
