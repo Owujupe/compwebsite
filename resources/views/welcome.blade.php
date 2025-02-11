@@ -184,11 +184,31 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-3 col-sm-6 col-md-6">
-                        <div class="features-card three" data-cues="fadeIn" data-group="images">
-                            <i class="flaticon-browser"></i>
+                        <div class="features-card two" data-cues="fadeIn" data-group="images">
+                            <i class="flaticon-problem-solving"></i>
                             <div class="features">
+                                <h4>Excellence</h4>
+                                <p>Delivering top-notch services with professionalism.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="features-card two" data-cues="fadeIn" data-group="images">
+                            <i class="flaticon-problem-solving"></i>
+                            <div class="features">
+                                <h4>Innovation</h4>
+                                <p>Constantly evolving to provide cutting-edge solutions.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="features-card three" data-cues="fadeIn" data-group="images">
+                        <i class="flaticon-problem-solving"></i>
+                        <div class="features">
                                 <h4>Excellence</h4>
                                 <p>Delivering top-notch services with professionalism.</p>
                             </div>
@@ -197,13 +217,13 @@
                     
                     <div class="col-lg-3 col-sm-6 col-md-6">
                         <div class="features-card four" data-cues="fadeIn" data-group="images">
-                            <i class="flaticon-growth"></i>
-                            <div class="features">
+                        <i class="flaticon-problem-solving"></i>
+                        <div class="features">
                                 <h4>Innovation</h4>
                                 <p>Constantly evolving to provide cutting-edge solutions.</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -232,6 +252,7 @@
                                 <p>We are a Money Service Business(MSB) and are duly registered with the Financial 
                                 Tracking & Analytics Centre of Canada(FINTRAC).</p>
                             </div>
+                            <a class="default-btn" target="_blank" href="https://wujupay.owujupe.com">LEARN MORE</a>
                             <!-- <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="experience-card">
@@ -485,7 +506,31 @@
                 </div>
 
                 <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-card" src="001.html" data-cue="fadeIn">
+                            <div class="single">
+                                <div class="blog-img">
+                                    <a href="https://www.georgebrown.ca/event/black-excellence-entrepreneur-panel-discussion-event">
+                                        <img src="https://www.georgebrown.ca/sites/default/files/styles/medium_rectangle_620_by_390_s_and_c/public/images/2025-01/startGBC_whynotme%20Black%20Excellence%20Panel.jpeg?h=bcea892f&itok=R2O-_0pw" alt="blog-image">
+                                    </a>
+                                    <div class="date">Feb 19, 2025</div>
+                                </div>
+
+                                <div class="blog-content">
+                                   
+    
+                                    <h4>
+                                        <a href="blog-details.html">Black Excellence Entrepreneur Panel Event</a>
+                                    </h4>
+                                    <p>Join startGBC, BFI and BSSN on February 19th, from 3-5pm in the Black Futures Initiatives Space, for an inspiring Black History Month 
+                                        event at George Brown College, celebrating the success of Black entrepreneurs who started their journeys right here./p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-4 col-md-6">
                         <div class="blog-card" src="001.html" data-cue="fadeIn">
                             <div class="single">
                                 <div class="blog-img">
@@ -496,16 +541,7 @@
                                 </div>
 
                                 <div class="blog-content">
-                                    <!-- <ul>
-                                        <li>
-                                            <img src="assets/images/svg/svg-img-1.svg" alt="svg-img">By
-                                            <a href="#">Admin</a>
-                                        </li>
-                                        <li>
-                                            <img src="assets/images/svg/svg-img-2.svg" alt="svg-img">
-                                            No Comment
-                                        </li>
-                                    </ul> -->
+                                   
     
                                     <h4>
                                         <a href="blog-details.html">startGBC Celebrates An Outstanding Month!</a>
@@ -516,29 +552,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="blog-card" src="001.html" data-cue="fadeIn">
-                            <div class="single">
-                                <div class="blog-img">
-                                    <a href="blog-details.html">
-                                        <img src="https://www.georgebrown.ca/sites/default/files/styles/inline_image/public/images/2024-06/student_Collisionpresenters_2024.jpg?itok=Z_jrT56j" alt="blog-image">
-                                    </a>
-                                    <div class="date">June 17, 2024</div>
-                                </div>
 
-                                <div class="blog-content">
-                                    
-    
-                                    <h4>
-                                        <a href="https://www.georgebrown.ca/news/2024/collision-here-we-come-gbc-showcasing-research-innovation-and-entrepreneurship-activities-at-leading-tech-conference">
-                                        GBC showcasing research innovation and entrepreneurship activities at leading tech conference</a>
-                                    </h4>
-                                    <p>Blockchain Development student Godfrey Jonas, the startup founder of the Owujupe social financing platform, 
-                                        is among the students showcasing work at Collision as part of the GBC presence.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
+                  
                     
                     <div class="col-lg-4 col-md-6">
                         <div class="blog-card" src="001.html" data-cue="fadeIn">
