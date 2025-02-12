@@ -523,7 +523,7 @@
                                         <a href="blog-details.html">Black Excellence Entrepreneur Panel Event</a>
                                     </h4>
                                     <p>Join startGBC, BFI and BSSN on February 19th, from 3-5pm in the Black Futures Initiatives Space, for an inspiring Black History Month 
-                                        event at George Brown College, celebrating the success of Black entrepreneurs who started their journeys right here./p>
+                                        event at George Brown College, celebrating the success of Black entrepreneurs who started their journeys right here.</p>
                                 </div>
                             </div>
                         </div>

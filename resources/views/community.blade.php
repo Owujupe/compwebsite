@@ -52,13 +52,18 @@
                                         Home      
                                     </a>
                                    
-                                </li>                              
-                                        
+                                </li>                                
+                               
                                 
 
                                 <li class="nav-item">
                                     <a href="/contact" class="nav-link">Contact</a>
                                 </li>
+
+                                <li class="nav-item">
+                                    <a href="#blog" class="nav-link" target="news">News</a>
+                                </li>
+                                       
 
                                 <li class="nav-item">
                                     <a href="/community" class="nav-link">Community</a>
