@@ -69,29 +69,35 @@
                                     <ul>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="https://wujupay.owujupe.com">Wujupay</a>
+                                            <a href="https://wujupay.owujupe.com">WujuPay</a>
                                         </li>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="#">Wujuchain</a>
+                                            <a href="#">WujuChain</a>
                                         </li>
                                         
                                     </ul>
                                 </div>
                             </div>
                             
-                            <div class="col-lg-4 col-md-4">
+                            <div class="col-lg-4 col-sm-6 col-md-4">
                                 <div class="address">
                                     <h4>Get In Touch</h4>
-                                    <ul class="location">
+                                    <ul>
                                        
                                         <!-- <li>
                                             <i class="flaticon-email-1"></i>
                                             <a href="https://templates.hibotheme.com/cdn-cgi/l/email-protection#375e59515877524f565a475b521954585a"><span class="__cf_email__" data-cfemail="8de4e3ebe2cde8f5ece0fde1e8a3eee2e0">[email&#160;protected]</span></a>
                                         </li> -->
+                                      
+                                     
                                         <li>
-                                            <i class="flaticon-placeholder-1"></i>
-                                            <span>Toronto, Ontario</span>
+                                        <i class='bx bx-right-arrow-alt'></i>
+                                            <a href="mail:askus@owujupe.com">Email</a>
+                                        </li>
+                                        <li>
+                                        <i class='bx bx-right-arrow-alt'></i>
+                                            <a href="https://calendly.com/godfreyejonas/30min">Schedule a call</a>
                                         </li>
                                     </ul>
                                 </div>

@@ -5,14 +5,14 @@
         <div class="hero-area">
             <div class="container-fluid">
                 <div class="row align-items-center">
-                    <div class="col-lg-5">
-                        <div class="hero-img">
-                            <img class="banner-img-3" src="assets/images/hero/banner-img-3.png" alt="image">
-                            <img class="startup-shape-1" src="assets/images/shape/startup-shape-1.png" alt="startup-shape">
+                    <div class="col-lg-4">
+                        <div class="">
+                            <img class="" src="assets/images/goodness.JPEG" alt="success-img">
+                            <!-- <img class="startup-shape-1" src="assets/images/shape/startup-shape-1.png" alt="startup-shape"> -->
                             <!-- shape images -->
                         </div>
                     </div>
-                    <div class="col-lg-7">
+                    <div class="col-lg-8">
                         <div class="hero-content">
                             <span>Owujupe means Goodness</span>
                             <h1>Welcome to Owujupé</h1>
@@ -85,7 +85,7 @@
                         <h4>
                             <a href="service-details.html">Financial Services</a>
                         </h4>
-                        <p>Wujupay - an interest-free financial ecosystem for savings, goal planning, and financial empowerment.</p>
+                        <p>WujuPay - an interest-free financial ecosystem for savings, goal planning, and financial empowerment.</p>
                     </div>
 
                    
@@ -147,8 +147,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5">
-                        <div class="marketing-img">
-                            <img class="success-img" src="assets/images/success-img.png" alt="success-img">
+                        <div class="">
+                            <img class="" src="assets/images/successss.JPEG" alt="success-img">
                         </div>
                     </div>
                 </div>
@@ -217,19 +217,19 @@
                 <div class="row align-items-center">
                     <div class="col-lg-5">
                         <div class="experince-img">
-                            <img class="experience-img" src="assets/images/experience-img.png" alt="image">
+                            <img class="experience-img" src="assets/images/wujupay.jpg" alt="image">
                         </div>
                     </div>
                     <div class="col-lg-7">
                         <div class="business-experience">
                             <div class="section-heading">
                                 <span class="subtitle">INTRODUCING</span>
-                                <h2>WUJUPAY</h2>
-                                <p>Wujupay is a financial platform that transforms how underserved individuals and communities access financial resources. Wujupay adopts a 
+                                <h2>WujuPay</h2>
+                                <p>WujuPay is a financial platform that transforms how underserved individuals and communities access financial resources. WujuPay adopts a 
                                     rotating savings and credit principle empowering people to save together, providing a pathway to interest-free credit, collectively pool 
                                     resources to fund education, 
                                     start businesses, invest in their future, settle debt and build credit.</p>
-                                <p>We are a Money Service Business(MSB) and are duly registered with the Financial 
+                                <p>Operating as a Money Service Business(MSB) and duly registered with the Financial 
                                 Tracking & Analytics Centre of Canada(FINTRAC).</p>
                             </div>
                             <!-- <div class="row">
@@ -269,27 +269,9 @@
         </div>
         <!-- End Boost Your Business -->
 
-        <!-- Start Get Started Instantly Area -->
-        <div class="newsletter-area ptb-100 bg-color-3d0660">
-            <div class="container">
-            <div class="section-heading">
-                    <!-- <span class="subtitle">Our Team Member</span> -->
-                    <h2>Get Started on Wujupay</h2>
-                    <a class="default-btn" target="_blank" href="https://wujupay.owujupe.com">LEARN MORE</a>
-                </div>
-            
-            </div>
 
-            <img class="news-shape-1" src="assets/images/shape/news-shape-1.png" alt="news-shape">
-            <img class="news-shape-2 rotate" src="assets/images/shape/news-shape-2.png" alt="news-shape">
-            <img class="news-shape-3 animationFramesTwo" src="assets/images/shape/news-shape-3.png" alt="news-shape">
-            <img class="news-shape-4" src="assets/images/shape/news-shape-4.png" alt="news-shape">
-        </div>
-        <!-- End Get Started Instantly Area -->
-
-
-        <!-- Start Vbnmr Area -->
-        <div class="vbnmr-area pt-100 pb-70 bg-color-f9f9f9">
+                <!-- Start Vbnmr Area -->
+                <div class="vbnmr-area pt-100 pb-70 bg-color-f9f9f9">
             <div class="container">
             <div class="business-experience">
                             <div class="section-heading">
@@ -314,109 +296,27 @@
         </div>
         <!-- End Vbnmr Area -->
 
-       
-
-       
-
-        
-        <!-- Start Meet Our Team Area -->
-        <div class="team-area pt-100 pb-70 bg-color-f6f3f0">
-            <div class="container" id="team">
-                <div class="section-heading">
-                    <span class="subtitle">Our Team Members</span>
-                    <h2>Meet The Team</h2>
+        <!-- Start Get Started Instantly Area -->
+        <div class="newsletter-area ptb-100 bg-color-3d0660">
+            <div class="container">
+            <div class="section-heading">
+                    <!-- <span class="subtitle">Our Team Member</span> -->
+                    <h2>Get Started on WujuPay</h2>
+                    <a class="default-btn" target="_blank" href="https://WujuPay.owujupe.com">LEARN MORE</a>
                 </div>
-
-                <div class="expert-slider owl-carousel owl-theme owl-loaded owl-drag">
-                    <div class="team-card">
-                        <div class="team-social">
-                            <img src="https://media.licdn.com/dms/image/v2/D5603AQH1LDL1799S9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718213480198?e=1743033600&v=beta&t=DIZPNrVufNeJ6gyHh8dXy645j316t8Qr1KB-Oub89-g" alt="image">
-    
-                            <ul>
-                                
-                                <li>
-                                    <a href="https://www.linkedin.com/in/godfreyenanghajonas/" target="_blank">
-                                        <i class='bx bxl-linkedin'></i>
-                                    </a>
-                                </li>
-                            
-                            </ul>
-                        </div>
-                        <div class="name">
-                            <h4>Godfrey Jonas</h4>
-                            <p>Principal Consultant</p>
-                            <caption>Toronto, ON</caption>
-                        </div>
-                    </div>
-
-                    <div class="team-card">
-                        <div class="team-social">
-                            <img src="https://media.licdn.com/dms/image/v2/D5603AQErYTj8IXLWYA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695683946820?e=1743033600&v=beta&t=WJmAWlN5OA1ovFPd1BBsioia1E-8XkKf9PQjHw-TkTA" alt="image">
-    
-                            <ul>
-                                
-                                <li>
-                                    <a href="https://www.linkedin.com/in/priya-dikshit-389460282/" target="_blank">
-                                        <i class='bx bxl-linkedin'></i>
-                                    </a>
-                                </li>
-                                
-                            </ul>
-                        </div>
-                        <div class="name">
-                            <h4>Priya Dikshit</h4>
-                            <p>Marketting</p>
-                            <caption>Toronto, ON</caption>
-                        </div>
-                    </div>
-
-                    <div class="team-card">
-                        <div class="team-social">
-                            <img src="https://media.licdn.com/dms/image/v2/D4D03AQFaSsAmNc_yQA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730237181719?e=1743033600&v=beta&t=lYM691D4CVkJcQCARI0Y3xCeSEh7FhDLWqop38_u5R4" alt="image">
-    
-                            <ul>
-                                
-                                <li>
-                                    <a href="https://www.linkedin.com/in/lugardlan/" target="_blank">
-                                        <i class='bx bxl-linkedin'></i>
-                                    </a>
-                                </li>
-                                
-                            </ul>
-                        </div>
-                        <div class="name">
-                            <h4>Lugar Lan</h4>
-                            <p>Fullstack Developer</p>
-                            <caption>Waterloo, ON</caption>
-                        </div>
-                    </div>
-
-               
-                    
-                    <!-- <div class="team-card">
-                        <div class="team-social">
-                            <img src="https://media.licdn.com/dms/image/v2/D4E03AQFMuZPhXw7iAQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729000641889?e=1743033600&v=beta&t=GW_E9DwQfl_OH1LtbuO-s8VqIMuofkyZSvF8TgD8sSQ" alt="image">
-    
-                            <ul>
-                                
-                                <li>
-                                    <a href="https://www.linkedin.com/in/halima-abubakar" target="_blank">
-                                        <i class='bx bxl-linkedin'></i>
-                                    </a>
-                                </li>
-                               
-                            </ul>
-                        </div>
-                        <div class="name">
-                            <h4>Halima Abubakar</h4>
-                            <p>Brand Strategist</p>
-                            <caption>Akure, Nigeria</caption>
-                        </div>
-                    </div> -->
-                </div>
+            
             </div>
+
+            <img class="news-shape-1" src="assets/images/shape/news-shape-1.png" alt="news-shape">
+            <img class="news-shape-2 rotate" src="assets/images/shape/news-shape-2.png" alt="news-shape">
+            <img class="news-shape-3 animationFramesTwo" src="assets/images/shape/news-shape-3.png" alt="news-shape">
+            <img class="news-shape-4" src="assets/images/shape/news-shape-4.png" alt="news-shape">
         </div>
-        <!-- End Meet Our Team Area -->
+        <!-- End Get Started Instantly Area -->
+
+
+
+
 
         <!-- Start What Our Client Say Area -->
         <!-- <div class="client-say-area pt-100 pb-70 bg-color-f9f9f9">

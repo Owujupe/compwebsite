@@ -79,30 +79,20 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
-                        <div class="pel-address">
-                            <ul>
-                                <li>
-                                    <div class="icon">
-                                        <i class="flaticon-phone-call-1"></i>
-                                    </div>
-                                    <p>Phone:</p>
-                                    <a href="tel:+1 (416)-8234-708">+1 416 8234 708</a>                                    
-                                </li>
-                            </ul>
-                        </div>
-                        
-                        <div class="pel-address">
-                            <ul>
-                                <li>
-                                    <div class="icon">
-                                        <i class="flaticon-email"></i>
-                                    </div>
-                                    <p>Email:</p>
-                                    <a href="mail:askus@owujupe.com">askus@owujupe.com</span></a>
-                                </li>
-                            </ul>
-                        </div>
-                        
+                            <div class="pel-address">
+                                <ul>
+                                    <li>
+                                        <div class="icon">
+                                            <i class="flaticon-email"></i>
+                                        </div>
+                                        <p>Email:</p>
+                                        <a href="mail:askus@owujupe.com">askus@owujupe.com</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                    </div>
+                    
+                    <div class="col-lg-4">  
                         <div class="pel-address">
                             <ul>
                                 <li>
@@ -115,53 +105,21 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-8">
-                        <form id="contactForm" class="contact-form">
-                            <div class="row">
-                                <div class="col-lg-6 col-sm-6 col-md-6 col-xl-6">
-                                    <div class="form-group">
-                                        <input type="text" class="form-control" required="" data-error="Please enter your name" placeholder="Name">
-        
-                                        <div class="help-block with-errors"></div>
+
+                    <div class="col-lg-4">
+                        <div class="pel-address">
+                            <ul>
+                                <li>
+                                    <div class="icon">
+                                        <i class="flaticon-pin"></i>
                                     </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6 col-md-6 col-xl-6">
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" required="" data-error="Please enter your email" placeholder="Email">
-        
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6 col-md-6 col-xl-6">
-                                    <div class="form-group">
-                                        <input type="phone" required="" data-error="Please enter your number" class="form-control" placeholder="Phone">
-        
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-sm-6 col-md-6 col-xl-6">
-                                    <div class="form-group">
-                                        <input type="text" required="" data-error="Please enter your subject" class="form-control" placeholder="Subject">
-        
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-md-12">
-                                    <div class="form-group">
-                                        <textarea class="form-control textarea" cols="30" rows="8" required="" data-error="Write your message" placeholder="Message"></textarea>
-        
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-12 col-md-12">
-                                    <button class="book-btn" type="submit" style="pointer-events: all; cursor: pointer;">Send Message</button>
-                                    
-                                    <div id="msgSubmit" class="h3 text-center hidden"></div>
-                                    <div class="clearfix"></div>
-                                </div>
-                            </div>
-                        </form>
+                                    <p>Lets Jump on a call</a></p>
+                                    <span><a href="https://calendly.com/godfreyejonas/30min">Schedule a call</a></span>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
+                
                 </div>
             </div>
         </div>
