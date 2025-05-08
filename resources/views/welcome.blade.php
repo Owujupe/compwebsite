@@ -7,7 +7,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div class="">
-                            <img class="" src="assets/images/goodness.JPEG" alt="success-img">
+                            <img class="" src="assets/images/goodness.jpeg" alt="success-img">
                             <!-- <img class="startup-shape-1" src="assets/images/shape/startup-shape-1.png" alt="startup-shape"> -->
                             <!-- shape images -->
                         </div>
@@ -148,7 +148,7 @@
                     </div>
                     <div class="col-lg-5">
                         <div class="">
-                            <img class="" src="assets/images/successss.JPEG" alt="success-img">
+                            <img class="" src="assets/images/successss.jpeg" alt="success-img">
                         </div>
                     </div>
                 </div>
