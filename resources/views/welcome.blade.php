@@ -16,7 +16,7 @@
                         <div class="hero-content">
                             <span>Owujupe means Goodness</span>
                             <h1>Welcome to Owujupé</h1>
-                            <p>Owujupé is a revolutionary ecosystem providing innovative products and solutions.</p>
+                            <p>Owujupé is an ecosystem providing innovative products and solutions.</p>
                             <a class="hero-btn" href="#about">About</a>
                            
                             <!-- shape images -->
