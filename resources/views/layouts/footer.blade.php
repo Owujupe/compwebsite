@@ -69,7 +69,7 @@
                                     <ul>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="https://wujupay.owujupe.com">WujuPay</a>
+                                            <a href="https://wujupay.ca">WujuPay</a>
                                         </li>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
