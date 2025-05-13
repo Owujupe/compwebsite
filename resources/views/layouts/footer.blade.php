@@ -73,7 +73,7 @@
                                         </li>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="#">WujuChain</a>
+                                            <a href="https://wujuchain-apok.vercel.app">WujuChain</a>
                                         </li>
                                         
                                     </ul>
