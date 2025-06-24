@@ -252,7 +252,7 @@
                                 <p>Operating as a Money Service Business(MSB) and duly registered with the Financial 
                                 Tracking & Analytics Centre of Canada(FINTRAC).</p>
                             </div>
-                            <a class="default-btn" target="_blank" href="https://wujupay.owujupe.com">LEARN MORE</a>
+                            <a class="default-btn" target="_blank" href="https://wujupay.ca">LEARN MORE</a>
                             <!-- <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="experience-card">
@@ -290,6 +290,57 @@
         </div>
         <!-- End Boost Your Business -->
 
+        <div class="features-area features-about-area pt-100 pb-70">
+            <div class="container">
+                <div class="section-title">
+                    <span class="sub-title">WujuPay Stories</span>
+                    <h2>STORY OF IMPACT</h2>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="experince-img">
+                            <img class="experience-img" src="assets/images/glory_success.jpg" alt="image">
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-sm-6 col-md-6">
+                        <div class="experince-img">
+                            <img class="experience-img" src="assets/images/moren_success.jpg" alt="image">
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-6 col-md-6">
+                       <div class="experince-img">
+                            <img class="experience-img" src="assets/images/moren_success.jpg" alt="image">
+                        </div>
+                    </div>
+
+                    
+                    
+                    <!-- <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="features-card three" data-cues="fadeIn" data-group="images">
+                        <i class="flaticon-problem-solving"></i>
+                        <div class="features">
+                                <h4>Excellence</h4>
+                                <p>Delivering top-notch services with professionalism.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-3 col-sm-6 col-md-6">
+                        <div class="features-card four" data-cues="fadeIn" data-group="images">
+                        <i class="flaticon-problem-solving"></i>
+                        <div class="features">
+                                <h4>Innovation</h4>
+                                <p>Constantly evolving to provide cutting-edge solutions.</p>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+
 
                 <!-- Start Vbnmr Area -->
                 <div class="vbnmr-area pt-100 pb-70 bg-color-f9f9f9">
@@ -323,7 +374,7 @@
             <div class="section-heading">
                     <!-- <span class="subtitle">Our Team Member</span> -->
                     <h2>Get Started on WujuPay</h2>
-                    <a class="default-btn" target="_blank" href="https://WujuPay.owujupe.com">LEARN MORE</a>
+                    <a class="default-btn" target="_blank" href="https://wujupay.ca">LEARN MORE</a>
                 </div>
             
             </div>

@@ -75,6 +75,11 @@
                                             <i class='bx bx-right-arrow-alt'></i>
                                             <a href="https://wujuchain-apok.vercel.app">WujuChain</a>
                                         </li>
+
+                                        <li>
+                                            <i class='bx bx-right-arrow-alt'></i>
+                                            <a href="https://mytenancyplus.com">MyTenancyPlus</a>
+                                        </li>
                                         
                                     </ul>
                                 </div>

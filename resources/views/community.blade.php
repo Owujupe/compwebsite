@@ -190,72 +190,8 @@
         </div>
         <!-- End Counter Area -->
 
-        <!-- Start Boost Your Business -->
-        <div class="experience-area pt-100 pb-70">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-5">
-                        <div class="experince-img">
-                            <img class="experience-img" src="https://community.owujupe.com/interested.png" alt="image">
-                        </div>
-                    </div>
-                    <div class="col-lg-7">
-                        <div class="business-experience">
-                            <div class="section-heading">
-                                <span class="subtitle">Upcoming Workshop</span>
-                                <h2>2025 Capacity Building Workshops</h2>
-                                <!-- <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself because it is pain, but because occasionally circumstances occur</p> -->
-                                <a class="default-btn" href="https://opendashboard.app/shared/b62c2516-9d5b-4fad-b754-72d15c7f9e49/2025-owujupe-capacity-building-expression-of-interst">Sign up</a>
-                            </div>
-                            <!-- <div class="row">
-                                <div class="col-lg-6 col-md-6">
-                                    <div class="experience-card">
-                                        <div class="heading align-items-center">
-                                            <div class="business-img">
-                                                <img src="assets/images/svg/business-1.svg" alt="image">
-                                            </div>
-                                            <h4>Business Solutions</h4>
-                                        </div>
-
-                                        <p>Which is the same as saying through shrinking from toil Ipain</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-lg-6 col-md-6">
-                                    <div class="experience-card">
-                                        <div class="heading align-items-center">
-                                            <div class="business-img">
-                                                <img src="assets/images/svg/business-2.svg" alt="image">
-                                            </div>
-                                            <h4>Market Strategy</h4>
-                                        </div>
-
-                                        <p>Which is the same as saying through shrinking from toil Ipain</p>
-                                    </div>
-                                </div>
-                            </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Boost Your Business -->
 
         
-
-        <!-- Start Popup Area -->
-        <div class="popup-area">
-            <div class="container">
-                <div class="popup-img">
-                    <img class="popup-img-1" src="assets/images/community/sept.jpg" alt="popup-img">
-                    
-                    <a class="popup-youtube popup-btn" href="https://www.youtube.com/watch?v=EFYWT3mqUew">
-                        <i class="flaticon-play"></i>
-                    </a><br>
-                </div>
-            </div>
-        </div>
-        <!-- End Popup Area -->
 
        
 
@@ -491,12 +427,8 @@
                         <img src="https://opendashboard.app/assets/opendashboard-black.svg" alt="image">
                     </div>
                   
-                    <div class="sponsor-logo">
-                        <img src="https://quantumleaplabs.ca/wp-content/uploads/2024/05/CA-US-_-full-color-blck-1.svg" alt="image">
-                    </div>
-                    <div class="sponsor-logo">
-                        <img src="https://quantumleaplabs.ca/wp-content/uploads/2024/05/Quantum-Leap-Labs-1024x267.png" alt="image">
-                    </div>
+                    
+               
                     <div class="sponsor-logo">
                         <img src="https://www.mytenancyplus.com/images/logo/myteeTrans.png" alt="image">
                     </div>
