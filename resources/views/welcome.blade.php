@@ -306,7 +306,7 @@
                     
                     <div class="col-lg-4 col-sm-6 col-md-6">
                         <div class="experince-img">
-                            <img class="experience-img" src="assets/images/moren_success.jpg" alt="image">
+                            <img class="experience-img" src="assets/images/glory_condo.jpg" alt="image">
                         </div>
                     </div>
 
