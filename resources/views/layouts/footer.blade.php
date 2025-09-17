@@ -13,19 +13,23 @@
 
                             <ul>
                                 
+                                
+                                
                                 <li>
-                                    <a class="social" href="https://www.x.com/owujupe" target="_blank">
-                                        <i class='bx bxl-twitter'></i>
+                                    <a class="social" href="https://www.instagram.com/owujupe" target="_blank">
+                                        <i class='bx bxl-instagram'></i>
                                     </a>
                                 </li>
+
                                 <li>
-                                    <a class="social" href="https://www.linkedin.com/owujupe" target="_blank">
+                                    <a class="social" href="https://www.linkedin.com/company/owujupe" target="_blank">
                                         <i class='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
+
                                 <li>
-                                    <a class="social" href="https://www.youtube.com/@Emergingtechsnmore" target="_blank">
-                                        <i class='bx bxl-youtube'></i>
+                                    <a class="social" href="https://www.x.com/owujupe" target="_blank">
+                                        <i class='bx bxl-twitter'></i>
                                     </a>
                                 </li>
                             </ul>
@@ -73,7 +77,7 @@
                                         </li>
                                         <li>
                                             <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="https://wujuchain-apok.vercel.app">WujuChain</a>
+                                            <a href="https://onchain.wujupay.ca">WujuChain</a>
                                         </li>
 
                                         <li>
@@ -90,15 +94,12 @@
                                     <h4>Get In Touch</h4>
                                     <ul>
                                        
-                                        <!-- <li>
-                                            <i class="flaticon-email-1"></i>
-                                            <a href="https://templates.hibotheme.com/cdn-cgi/l/email-protection#375e59515877524f565a475b521954585a"><span class="__cf_email__" data-cfemail="8de4e3ebe2cde8f5ece0fde1e8a3eee2e0">[email&#160;protected]</span></a>
-                                        </li> -->
+                                        
                                       
                                      
                                         <li>
                                         <i class='bx bx-right-arrow-alt'></i>
-                                            <a href="mail:askus@owujupe.com">Email</a>
+                                            <a href="mailto:askus@owujupe.com">Email</a>
                                         </li>
                                         <li>
                                         <i class='bx bx-right-arrow-alt'></i>

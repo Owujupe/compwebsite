@@ -20,7 +20,7 @@
         <link href="assets/css/responsive.css" rel="stylesheet">
 
         <title>Owujupe Inc - Bringing Goodness</title>
-        <link rel="icon" type="image/png" href="assets/images/fav.png">
+        <link rel="icon" type="image/png" href="https://wujupay.ca/assets/images/pingg-removebg-preview.png">
     </head>
 
     <body>
@@ -78,35 +78,41 @@
                             <ul class="navbar-nav ms-auto">
                                 <li class="nav-item">
                                     <a href="/" class="nav-link">
-                                        Home      
+                                        HOME      
                                     </a>
                                    
                                 </li>
 
-                                <!-- <li class="nav-item">
-                                    <a href="/services" class="nav-link">
-                                        Services
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle">
+                                        PRODUCTS      
                                     </a>
-                                    
-                                </li> -->
-
-<!--                               
+                                    <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="/about" class="nav-link">About Us</a>
-                                        </li> -->
-                                        
+                                            <a href="https://wujupay.ca" class="nav-link">WujuPay</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://onchain.wujupay.ca" class="nav-link">WujuChain</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://mytenancyplus.com" class="nav-link">MyTenancyPlus</a>
+                                        </li>
+                                    </ul>
+                                </li>        
                                 
 
+                               
+
                                 <li class="nav-item">
-                                    <a href="/contact" class="nav-link">Contact</a>
+                                    <a href="#blog" class="nav-link" target="news">NEWS</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="#blog" class="nav-link" target="news">News</a>
+                                    <a href="/community" class="nav-link">COMMUNITY</a>
                                 </li>
 
-                                <li class="nav-item">
-                                    <a href="/community" class="nav-link">Community</a>
+                                 <li class="nav-item">
+                                    <a href="/contact" class="nav-link">CONTACT</a>
                                 </li>
                             </ul>
 

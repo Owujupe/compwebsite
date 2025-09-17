@@ -56,7 +56,7 @@
                     </div>
                     <div class="col-lg-7 col-md-6">
                         <div class="page-banner-img">
-                            <img class="page-banner-img" src="assets/images/page-banner-img-2.png" alt="page-banner-img">
+                            <img class="page-banner-img" src="assets/images/owujupeGraphics.png" alt="page-banner-img">
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@
                                             <i class="flaticon-email"></i>
                                         </div>
                                         <p>Email:</p>
-                                        <a href="mail:askus@owujupe.com">askus@owujupe.com</span></a>
+                                        <a href="mailto:askus@owujupe.com">askus@owujupe.com</span></a>
                                     </li>
                                 </ul>
                             </div>

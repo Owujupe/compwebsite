@@ -46,27 +46,44 @@
                         </a>
 
                         <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
-                            <ul class="navbar-nav ms-auto">
+                             <ul class="navbar-nav ms-auto">
                                 <li class="nav-item">
                                     <a href="/" class="nav-link">
-                                        Home      
+                                        HOME      
                                     </a>
                                    
-                                </li>                                
-                               
+                                </li>
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link dropdown-toggle">
+                                        PRODUCTS      
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li class="nav-item">
+                                            <a href="https://wujupay.ca" class="nav-link">WujuPay</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://onchain.wujupay.ca" class="nav-link">WujuChain</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="https://mytenancyplus.com" class="nav-link">MyTenancyPlus</a>
+                                        </li>
+                                    </ul>
+                                </li>        
                                 
 
+                               
+
                                 <li class="nav-item">
-                                    <a href="/contact" class="nav-link">Contact</a>
+                                    <a href="#blog" class="nav-link" target="news">NEWS</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="#blog" class="nav-link" target="news">News</a>
+                                    <a href="/community" class="nav-link">COMMUNITY</a>
                                 </li>
-                                       
 
-                                <li class="nav-item">
-                                    <a href="/community" class="nav-link">Community</a>
+                                 <li class="nav-item">
+                                    <a href="/contact" class="nav-link">CONTACT</a>
                                 </li>
                             </ul>
 
@@ -202,8 +219,8 @@
         <div class="client-say-area pt-100 pb-70 bg-color-f9f9f9">
             <div class="container">
                 <div class="section-title">
-                    <span class="subtitle">Our Testimonials</span>
-                    <h2>Feedbacks from participants</h2>
+                    <span class="subtitle">Testimonials</span>
+                    <h2>Feedback from participants</h2>
                 </div>
 
                 <div class="row justify-content-center">
