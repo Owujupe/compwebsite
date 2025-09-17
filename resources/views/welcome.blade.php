@@ -489,7 +489,7 @@
                                    
     
                                     <h4>
-                                        <a href="blog-details.html">Black Excellence Entrepreneur Panel Event</a>
+                                        <a href="https://www.georgebrown.ca/event/black-excellence-entrepreneur-panel-discussion-event">Black Excellence Entrepreneur Panel Event</a>
                                     </h4>
                                     <p>Join startGBC, BFI and BSSN on February 19th, from 3-5pm in the Black Futures Initiatives Space, for an inspiring Black History Month 
                                         event at George Brown College, celebrating the success of Black entrepreneurs who started their journeys right here.</p>
@@ -513,7 +513,7 @@
                                    
     
                                     <h4>
-                                        <a href="blog-details.html">startGBC Celebrates An Outstanding Month!</a>
+                                        <a href="https://www.georgebrown.ca/news/2024/startgbc-celebrates-an-outstanding-month">startGBC Celebrates An Outstanding Month!</a>
                                     </h4>
                                     <p>Wow, what an amazing month startGBC has had.  We are thrilled to announce that three startGBC student from 
                                     George Brown College have launched their own tech companies and were recently invited to showcase their innovations at Collision 2024.</p>
